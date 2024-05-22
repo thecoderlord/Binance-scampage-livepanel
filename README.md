@@ -1,2 +1,21 @@
 # Binance-scampage-livepanel
-fraud scama scampages spamming-tool scampage scam-pages bank-scam-pages live-panel scam-page-live-panel office-scampage bank-scam-page fraud-script phishing-script phishlist fakepages fake-pages
+
+
+Binance Live Panel 
+
+Features :
+* Panel & Telegram Result
+* Anti-Bot Protection
+* Logs of visitors
+* OneTime Access 
+* Handlers Access 
+* Sessions
+* Full browser infos & operating system & user-agent
+* Supported ON PC / Smartphones
+
+
+
+
+Video Channel:https://t.me/thecoderlabchannel 
+Telegram sales: @thecoderlab
+youtube:https://www.youtube.com/@scampagelive/
