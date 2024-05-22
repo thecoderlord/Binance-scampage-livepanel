@@ -14,8 +14,7 @@ Features :
 * Supported ON PC / Smartphones
 
 
-
-
-Video Channel:https://t.me/thecoderlabchannel 
-Telegram sales: @thecoderlab
-youtube:https://www.youtube.com/@scampagelive/
+Contact :
+* Video Channel:  https://t.me/thecoderlabchannel 
+* Telegram sales: @thecoderlab
+* youtube:        https://www.youtube.com/@scampagelive/
